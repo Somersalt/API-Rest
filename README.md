@@ -1,0 +1,2 @@
+# API-Rest
+Desenvolvimento de uma API REST do zero, criando rotas, controladores, modelos, conectando uma aplicação a um banco de dados MongoDB em nuvem. E foi utilizado bibliotecas consolidadas no desenvolvimento Web com Node, como Express e Mongoose. Finalizei o CRUD completo de dois recursos (livros e autores), criei consultas personalizadas por campo e fiz associação de dados de um recurso na rota que eu busco outro recurso.
